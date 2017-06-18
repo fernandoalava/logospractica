@@ -2,3 +2,5 @@
 templates
 .vagrant
 logoenv
+*.pyc
+
